@@ -45,11 +45,11 @@ ESX.ShowNotification("I i ~r~love~s~ donuts", "success", 3000)
 
 # Previews
 
-![Preview_1](https://cdn.discordapp.com/attachments/944789399852417096/997890963445927977/unknown.png)
+![Preview_1](https://cdn.discordapp.com/attachments/990541776681046077/1044087874745806858/success.PNG)
 
-![Preview_2_zoom](https://cdn.discordapp.com/attachments/944789399852417096/997892214053163148/unknown.png)
+![Preview_2_zoom](https://cdn.discordapp.com/attachments/990541776681046077/1044087875152662658/error.PNG)
 
-![Preview_2](https://cdn.discordapp.com/attachments/944789399852417096/997891726326898909/unknown.png)
+![Preview_2](https://cdn.discordapp.com/attachments/990541776681046077/1044087875572084818/info.PNG)
 
 ## Legal
 
